@@ -2,33 +2,34 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <h3><a href="https://www.iitm.ac.in/">IIT Madras</a></h3>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
-
+    I am a schmol cat.
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false # includes a list of news items
+  # scrollable: true # adds a vertical scroll bar if there are more than 3 news items
+  # limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  # scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+  # limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hello and welcome to my website!
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I'm Anushka, a 5th year Dual-Degree Computational and Mechanical Engineering student at [IIT Madras](https://www.iitm.ac.in/). 
+My research interests lie in computational materials science and flow physics. Much of my research so far has focussed on using multiscale methods to uncover the molecular origins of macroscopic behaviour. You can take a look at my ongoing work at [projects and publications](/projects_and_publications/). 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+When I am not working I love to follow my passion for Tennis, running, high altitude trekking (especially in the Indian Himalayas), and watching movies. You can read more about my hobbies at [hobbies](/hobbies/) and my travels at [travel blog](/travel_blog/).
+
+
+Contact me on [LinkedIn](https://www.linkedin.com/in/anushka-venkatesh-80ab84255/) or send me an [e-mail](mailto:me21b026@smail.iitm.ac.in).

@@ -1,11 +1,17 @@
 ---
-layout: cv
+layout: default
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
-toc:
-  sidebar: left
+description: Anushka Venkatesh's CV
 ---
+
+# Anushka Venkatesh's CV
+
+[Click here](/assets/pdf/cv.pdf) to download this CV as a PDF.
+
+<object data="/assets/pdf/cv.pdf" type="application/pdf" width="100%" height="800px">
+    <p>It appears you don't have a PDF plugin for this browser.
+    You can <a href="/assets/pdf/cv.pdf">click here to download the PDF file.</a></p>
+</object>
