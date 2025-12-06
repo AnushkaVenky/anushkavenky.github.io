@@ -1,17 +1,11 @@
 ---
-layout: default
+layout: cv
 permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
+cv_pdf: cv.pdf # you can also use external links here
 description: Anushka Venkatesh's CV
+toc:
+  sidebar: left
 ---
-
-# Anushka Venkatesh's CV
-
-[Click here](/assets/pdf/cv.pdf) to download this CV as a PDF.
-
-<object data="/assets/pdf/cv.pdf" type="application/pdf" width="100%" height="800px">
-    <p>It appears you don't have a PDF plugin for this browser.
-    You can <a href="/assets/pdf/cv.pdf">click here to download the PDF file.</a></p>
-</object>
