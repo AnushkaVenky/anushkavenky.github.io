@@ -24,7 +24,7 @@ latest_posts:
   # limit: 3 # leave blank to include all the blog posts
 ---
 
-Hello and welcome to my website!
+Hola and welcome to my website!
 
 I'm Anushka, a 5th year Dual-Degree Computational and Mechanical Engineering student at [IIT Madras](https://www.iitm.ac.in/). 
 My research interests lie in computational materials science and flow physics. Much of my research so far has focussed on using multiscale methods to uncover the molecular origins of macroscopic behaviour. You can take a look at my ongoing work at [projects and publications](/projects_and_publications/). 
