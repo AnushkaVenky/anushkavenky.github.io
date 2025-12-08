@@ -106,6 +106,13 @@ ninja.data = [{
           window.open("mailto:%6D%65%32%31%62%30%32%36@%73%6D%61%69%6C.%69%69%74%6D.%61%63.%69%6E", "_blank");
         },
       },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/AnushkaVenky", "_blank");
+        },
+      },{
         id: 'social-linkedin',
         title: 'LinkedIn',
         section: 'Socials',
