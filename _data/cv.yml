@@ -36,7 +36,7 @@
       institution: Theoretical Chemistry and Biology Department, KTH Royal Institute of Technology
       year: 2024
 
- - title: Product Supply Intern
+    - title: Product Supply Intern
       institution: Proctor and Gamble Feminine Care Division, Mandideep, MP, India
       year: 2024
       
@@ -69,7 +69,7 @@
       items:
         - Kishore Vaigyanik Protsahan Yojana (KVPY) Fellowship, Department of Science and Technology, Government of India
 
-- title: Academic Interests
+<!-- - title: Academic Interests
   type: nested_list
   contents:
     - title: Topic 1.
@@ -85,3 +85,4 @@
   type: list
   contents:
     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    -->
