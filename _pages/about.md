@@ -26,7 +26,8 @@ latest_posts:
 Hello and welcome to my website!
 
 I'm Anushka, a 5th year Dual-Degree Computational and Mechanical Engineering student at IIT Madras. 
-I enjoy working on problems in the fields of computational materials science and flow physics. Much of my research so far has focussed on developing multiscale methods to uncover the molecular origins of macroscopic behaviour. I am currently doing my master's thesis at the [FLAME lab](https://flamelab-iisc.github.io/) at IISc under the guidance of [Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/). Earlier, I worked as an undergraduate researcher at the Nanomechanics lab at IITM under [Prof. Pijush Ghosh](https://home.iitm.ac.in/pijush/). If you’re curious about what I’ve been working on, you can explore my [projects and publications](/publications/). 
+I enjoy working on problems in the fields of computational materials science and flow physics. Much of my research so far has focussed on developing multiscale methods to uncover the molecular origins of macroscopic behaviour.
+I am currently doing my master's thesis at the [FLAME lab](https://flamelab-iisc.github.io/) at IISc under the guidance of [Konduri Aditya](https://cds.iisc.ac.in/faculty/konduriadi/). Earlier, I worked as an undergraduate researcher at the Nanomechanics lab at IITM under [Prof. Pijush Ghosh](https://home.iitm.ac.in/pijush/). If you’re curious about what I’ve been working on, you can explore my [projects and publications](/publications/). 
 
 When I am not working I love to follow my passion for tennis, running, high altitude trekking (especially in the Indian Himalayas), and quizzing. You can read more about my hobbies at [hobbies](/hobbies/).
 
