@@ -25,10 +25,10 @@ latest_posts:
 
 Hello and welcome to my website!
 
-I'm Anushka, a 5th year Dual-Degree Computational and Mechanical Engineering student at [IIT Madras](https://www.iitm.ac.in/). 
+I'm Anushka, a 5th year Dual-Degree Computational and Mechanical Engineering student at IIT Madras. 
 My research interests lie in computational materials science and flow physics. Much of my research so far has focussed on using multiscale methods to uncover the molecular origins of macroscopic behaviour. You can take a look at my ongoing work at [projects and publications](/projects_and_publications/). 
 
-When I am not working I love to follow my passion for Tennis, running, high altitude trekking (especially in the Indian Himalayas), and watching movies. You can read more about my hobbies at [hobbies](/hobbies/) and my travels at [travel blog](/travel_blog/).
+When I am not working I love to follow my passion for Tennis, running, high altitude trekking (especially in the Indian Himalayas), and quizzing. You can read more about my hobbies at [hobbies](/hobbies/).
 
 
-Contact me on [LinkedIn](https://www.linkedin.com/in/anushka-venkatesh-80ab84255/) or send me an [e-mail](mailto:me21b026@smail.iitm.ac.in).
+Contact me on [LinkedIn](https://www.linkedin.com/in/anushka-venkatesh-80ab84255/) or send me an e-mail at [me21b026@smail.iitm.ac.in](mailto:me21b026@smail.iitm.ac.in).
