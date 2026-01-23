@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 
-<!-- pages/projects.md -->
+<!-- pages/publications.md -->
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
