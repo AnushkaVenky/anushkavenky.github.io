@@ -61,9 +61,9 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-identifying-new-reaction-pathways-for-reactions-under-vibrationally-excited-conditions",
-          title: 'Identifying new reaction pathways for reactions under vibrationally excited conditions',
-          description: "Master&#39;s Thesis Project",
+          section: "News",},{id: "projects-master-39-s-thesis-project",
+          title: 'Master&amp;#39;s Thesis Project',
+          description: "Identifying new reaction pathways for reactions under vibrationally excited conditions",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{id: "projects-smiles-to-liquid-properties",
