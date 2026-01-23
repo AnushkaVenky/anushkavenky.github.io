@@ -168,6 +168,14 @@ defaults:
     values:
       sitemap: false
 
+  # (optional but recommended) give hobbies items the same layout as projects
+  - scope:
+      path: ""
+      type: hobbieslist
+    values:
+      layout: project
+
+
 sass:
   style: compressed
 
