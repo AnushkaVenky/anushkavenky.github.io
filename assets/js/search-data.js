@@ -35,6 +35,21 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
+            },},{id: "hobbieslist-tennis",
+          title: 'Tennis',
+          description: "",
+          section: "Hobbieslist",handler: () => {
+              window.location.href = "/hobbieslist/hobby1/";
+            },},{id: "hobbieslist-summiting-kuari-pass",
+          title: 'Summiting Kuari Pass',
+          description: "My first Himalayan Trek",
+          section: "Hobbieslist",handler: () => {
+              window.location.href = "/hobbieslist/hobby2/";
+            },},{id: "hobbieslist-quiz-sets",
+          title: 'Quiz Sets',
+          description: "Questions I set for the IITM Quiz CLub Quizzes",
+          section: "Hobbieslist",handler: () => {
+              window.location.href = "/hobbieslist/hobby3/";
             },},{id: "news-a-simple-inline-announcement",
           title: 'A simple inline announcement.',
           description: "",
