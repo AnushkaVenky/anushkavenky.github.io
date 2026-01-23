@@ -16,19 +16,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/publications/";
           },
-        },{id: "nav-hobbies",
-          title: "hobbies",
-          description: "All the fun stuff about me.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/hobbies/";
-          },
         },{id: "nav-cv",
           title: "cv",
           description: "Anushka Venkatesh&#39;s CV",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-hobbies",
+          title: "hobbies",
+          description: "All the fun stuff about me.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/hobbies/";
           },
         },{id: "books-the-godfather",
           title: 'The Godfather',
