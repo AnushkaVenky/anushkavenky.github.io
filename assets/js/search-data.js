@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-research",
-          title: "research",
-          description: "During my undergraduate years at IITM, I worked on multiple projects involving sub-continuum simulations with applications in materials science and fluid mechanics.",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-cv",
+  },{id: "nav-cv",
           title: "cv",
           description: "Anushka Venkatesh&#39;s CV",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
+          },
+        },{id: "nav-research",
+          title: "research",
+          description: "During my undergraduate years at IITM, I worked on multiple projects involving sub-continuum simulations with applications in materials science and fluid mechanics.",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "nav-hobbies",
           title: "hobbies",
