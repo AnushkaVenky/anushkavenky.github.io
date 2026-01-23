@@ -4,7 +4,7 @@ permalink: /publications/
 title: research
 description: During my undergraduate years at IITM, I worked on multiple projects involving sub-continuum simulations with applications in materials science and fluid mechanics. 
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
 
