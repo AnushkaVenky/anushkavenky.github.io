@@ -1,6 +1,6 @@
 ---
 layout: page
-title: hobbies
+title: Hobbies
 permalink: /hobbies/
 description: All the fun stuff about me.
 nav: true
