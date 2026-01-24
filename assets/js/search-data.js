@@ -17,7 +17,7 @@ ninja.data = [{
             window.location.href = "/cv/";
           },
         },{id: "nav-research",
-          title: "research",
+          title: "Research",
           description: "During my undergraduate years at IITM, I worked on multiple projects involving sub-continuum simulations with applications in materials science and fluid mechanics.",
           section: "Navigation",
           handler: () => {
