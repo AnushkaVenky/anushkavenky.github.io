@@ -24,7 +24,7 @@ ninja.data = [{
             window.location.href = "/publications/";
           },
         },{id: "nav-hobbies",
-          title: "hobbies",
+          title: "Hobbies",
           description: "All the fun stuff about me.",
           section: "Navigation",
           handler: () => {
